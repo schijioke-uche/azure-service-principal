@@ -39,9 +39,7 @@ All these will be created automatically when you run this script.
  <h2 align="center">
   <img src="./library/003A.jpg" width="870" alt="SPN">
 </h2>
- <h2 align="center">
-  <img src="./library/003B.png" width="870" alt="SPN">
-</h2>
+
  <h2 align="center">
   <img src="./library/003C.png" width="870" alt="SPN">
 </h2>
