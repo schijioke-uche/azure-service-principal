@@ -22,7 +22,7 @@ All these will be created automatically when you run this script.
  ### Use
   ```bash
   Step-1:  
-  git clone https://github.ibm.com/IBM-Azure/azure-service-principal.git
+  git clone https://github.com/schijioke-uche/azure-service-principal.git
 
   Step-2:
   cd azure-service-principal
