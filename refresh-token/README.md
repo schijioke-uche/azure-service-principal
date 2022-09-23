@@ -9,8 +9,8 @@
 ### Refresh Token
     ```bash
   Step-1:  
-  cd refresh-token
-
+  (a) cd refresh-token
+  (b) mv refresh.py.s refresh.py 
 
   Steop-2:
   (a) Open refresh.py
